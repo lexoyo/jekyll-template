@@ -10,6 +10,8 @@ author: Me
 email: me@example.com
 
 baseurl: http://lexoyo.me/jekyll-template/
+baseUrl: http://lexoyo.me/jekyll-template/
+url: http://lexoyo.me/jekyll-template/
 
 # configuration for ehancements, uncomment to enable
 
